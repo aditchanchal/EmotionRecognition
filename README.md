@@ -4,10 +4,6 @@
 - Prof. Dra. Paula Dornhofer Paro Costa 
 - FEEC Unicamp
 
-# Author
-
-- Murilo Marin Pechoto
-
 # Dependencies
 
 This GitHub is based on the work from van Gent, P.(2016) available in http://www.paulvangent.com/2016/08/05/emotion-recognition-using-facial-landmarks/
